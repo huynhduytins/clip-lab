@@ -124,7 +124,6 @@ export function LoginForm() {
           src={bgImage}
         />
       </div>
-
       <div className="flex min-h-105 items-center justify-center bg-[#f7f7f8] p-6 md:min-h-170 md:p-12">
         <SignInFields />
       </div>
